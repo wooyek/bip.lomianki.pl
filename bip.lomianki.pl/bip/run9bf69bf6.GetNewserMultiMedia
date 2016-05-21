@@ -1,0 +1,2239 @@
+[KOSZTORYS ATHENASOFT]
+co=Copyright Athenasoft sp. z o.o.
+wf=4
+pr=NORMA	4.03
+pe=1
+op=1
+opn=2	0	2	1	1	0	1	8	0	8.2	0	0	0	0	1.	1	1	0	1
+prn=2	2	2	3	4	1	6	0
+own=2	1	1	0	1	1	0	1	1	1	0	1	1	0	1	1	poz.	<	>	0	0	0	0
+pm=dzia³	dzia³
+pd=dzia³u	dzia³u
+mm=dzia³y	dzia³y
+md=dzia³ów	dzia³ów
+wan=PLN
+wk=0
+na=Koszty poœrednie	Zysk
+wn=	
+
+[STRONA TYT]
+na=KOSZTORYS   OFERTOWY
+nb=PRZEBUDOWA NAWIERZCHNI CHODNIKA W UL. ARMII POZNAÑ W £OMIANKACH
+ab=£OMIANKI
+ni=URZ¥D MIASTA I GMINY £OMIANKI 
+ai=UL.WARSZAWSKA 115
+br=DROGOWA
+nk=JOANNA RUCIÑSKA
+dt=14.05.2007
+
+[NARZUTY NORMA 2]
+na=Koszty poœrednie
+wa=0	1	0
+op=1	0
+nr=1
+ns=1
+
+[NARZUTY NORMA 2]
+na=Zysk
+wa=0	1	0
+op=1	0
+nr=1
+ns=1
+
+[RMS ZEST 7]
+ty=S
+na=brona talerzowa (bez ci¹gnika)
+id=13331	1
+jm=m-g	148
+ce=0
+il=4.3988
+
+[RMS ZEST 22]
+ty=M
+na=cement portlandzki 35 zwyk³y bez dodatków
+id=1700310	2
+jm=t	034
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=0.0507
+
+[RMS ZEST 23]
+ty=M
+na=cement portlandzki zwyk³y bez dodatków "35"
+id=1700399	1
+jm=t	034
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=6.2131
+
+[RMS ZEST 21]
+ty=M
+na=cement portlandzki zwyk³y bez dodatków 35
+id=1700301	1
+jm=t	034
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=1.6029
+
+[RMS ZEST 37]
+ty=S
+na=ci¹gnik ko³owy 37 kW (50 KM)
+id=39116	3
+jm=m-g	148
+ce=0
+il=0.1765
+
+[RMS ZEST 38]
+ty=S
+na=ci¹gnik ko³owy 37 kW/50 KM
+id=39116	1
+jm=m-g	148
+ce=0
+il=4.3988
+
+[RMS ZEST 34]
+ty=M
+na=deski iglaste obrzynane 25 mm kl.III
+id=2600619	1
+jm=m3	060
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=1.5019
+
+[RMS ZEST 35]
+ty=M
+na=deski iglaste obrzynane 25 mm kl.III
+id=2600621	2
+jm=m3	060
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=0.0078
+
+[RMS ZEST 9]
+ty=M
+na=farba olejna do gruntowania przeciwrdzewna
+id=1511699	1
+jm=dm3	066
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=0.481
+
+[RMS ZEST 10]
+ty=M
+na=farba olejna nawierzchniowa bia³a
+id=1511711	1
+jm=dm3	066
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=0.442
+
+[RMS ZEST 11]
+ty=M
+na=farba olejna nawierzchniowa czerwona
+id=1511712	1
+jm=dm3	066
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=0.442
+
+[RMS ZEST 19]
+ty=M
+na=glina budowlana
+id=1640300	1
+jm=m3	060
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=6.9863
+
+[RMS ZEST 20]
+ty=M
+na=gruz
+id=1690099	1
+jm=m3	060
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=0.7514
+
+[RMS ZEST 8]
+ty=M
+na=gwoŸdzie budowlane
+id=1336400	1
+jm=kg	033
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=0.87
+
+[RMS ZEST 50]
+ty=S
+na=koparko-spycharka 0.15 m3
+id=11111	1
+jm=m-g	148
+ce=0
+il=77.3968
+
+[RMS ZEST 27]
+ty=M
+na=kostka brukowa 6 cm czerwona
+id=2222101	1
+jm=m2	050
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=564.1087
+
+[RMS ZEST 26]
+ty=M
+na=kostka brukowa 6 cm szara
+id=2222101	1
+jm=m2	050
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=839.598
+
+[RMS ZEST 28]
+ty=M
+na=kostka brukowa 8 cm czerwona
+id=2222130	1
+jm=m2	050
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=544.3057
+
+[RMS ZEST 30]
+ty=M
+na=krawê¿nik drogowy betonowy 15x30 cm
+id=2223099	2
+jm=m	040
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=13.26
+
+[RMS ZEST 29]
+ty=M
+na=krawê¿niki drogowe betonowe 15x30 cm
+id=2223011	1
+jm=m	040
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=473.994
+
+[RMS ZEST 6]
+ty=M
+na=³añcuch techniczny
+id=1331399	1
+jm=m	040
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=14.69
+
+[RMS ZEST 13]
+ty=M
+na=mia³ kamienny
+id=1600600	1
+jm=t	034
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=7.333
+
+[RMS ZEST 31]
+ty=M
+na=mieszanka betonowa B-10
+id=2370699	2
+jm=m3	060
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=0.2704
+
+[RMS ZEST 32]
+ty=M
+na=mieszanka betonowa B-10
+id=2370699	1
+jm=m3	060
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=34.7984
+
+[RMS ZEST 33]
+ty=M
+na=mieszanka betonowa B-20
+id=2370699	1
+jm=m3	060
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=1.395
+
+[RMS ZEST 36]
+ty=M
+na=nasiona traw
+id=2_21005	3
+jm=kg	033
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=26.8676
+
+[RMS ZEST 24]
+ty=M
+na=obrze¿a betonowe 30x8 cm
+id=2220802	1
+jm=m	040
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=1164.33
+
+[RMS ZEST 15]
+ty=M
+na=piasek
+id=1601799	2
+jm=m3	060
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=0.2535
+
+[RMS ZEST 16]
+ty=M
+na=piasek
+id=1601899	1
+jm=m3	060
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=185.9041
+
+[RMS ZEST 47]
+ty=S
+na=pi³a do ciêcia kostki
+id=75200	1
+jm=m-g	148
+ce=0
+il=47.5125
+
+[RMS ZEST 25]
+ty=M
+na=p³yty chodnikowe betonowe "inwalidki" z wypustkami ¿ó³te 40*40x5 cm
+id=2221400	1
+jm=szt	020
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=269.876
+
+[RMS ZEST 17]
+ty=M
+na=pospó³ka
+id=1602299	1
+jm=m3	060
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=480.3207
+
+[RMS ZEST 44]
+ty=S
+na=przyczepa skrzyniowa 3,5 t
+id=39611	1
+jm=m-g	148
+ce=0
+il=0.1765
+
+[RMS ZEST 48]
+ty=R
+na=robocizna
+id=999	1
+jm=r-g	149
+ce=0
+il=4844.2461
+
+[RMS ZEST 12]
+ty=M
+na=rozcieñczalnik do wyrobów lakierowych
+id=1530599	1
+jm=dm3	066
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=0.195
+
+[RMS ZEST 2]
+ty=S
+na=równiarka samojezdna 74 kW (100 KM)
+id=11612	1
+jm=m-g	148
+ce=0
+il=7.0868
+
+[RMS ZEST 3]
+ty=S
+na=równiarka samojezdna 88 kW (120KM)
+id=11613	1
+jm=m-g	148
+ce=0
+il=2.5875
+
+[RMS ZEST 41]
+ty=S
+na=samochód dostawczy 0.9 t
+id=39511	1
+jm=m-g	148
+ce=0
+il=5.475
+
+[RMS ZEST 45]
+ty=S
+na=samochód samowy³adowczy 5 t
+id=39811	1
+jm=m-g	148
+ce=0
+il=165.2447
+
+[RMS ZEST 43]
+ty=S
+na=samochód skrzyniowy do 5 t
+id=39521	1
+jm=m-g	148
+ce=0
+il=15.288
+
+[RMS ZEST 42]
+ty=M
+na=s³upki drewniane iglaste œr.70mm
+id=3951300	1
+jm=m3	060
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=0.0759
+
+[RMS ZEST 5]
+ty=M
+na=s³upki z rur stalowych d³ug. 1.6 m
+id=1323701	1
+jm=kg	033
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=77.22
+
+[RMS ZEST 1]
+ty=S
+na=spycharka g¹sienicowa 55 kW (75 KM)
+id=11333	1
+jm=m-g	148
+ce=0
+il=40.6097
+
+[RMS ZEST 14]
+ty=M
+na=t³uczeñ kamienny niesortowany
+id=1600614	1
+jm=t	034
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=163.1217
+
+[RMS ZEST 4]
+ty=S
+na=walec statyczny samojezdny 10 t
+id=12113	1
+jm=m-g	148
+ce=0
+il=60.337
+
+[RMS ZEST 46]
+ty=S
+na=wibrator powierzchniowy
+id=45100	1
+jm=m-g	148
+ce=0
+il=247.065
+
+[RMS ZEST 39]
+ty=M
+na=woda
+id=3930000	1
+jm=m3	060
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=122.6535
+
+[RMS ZEST 40]
+ty=M
+na=woda
+id=3930099	2
+jm=m3	060
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=0.1768
+
+[RMS ZEST 18]
+ty=M
+na=¿wir
+id=1602499	1
+jm=m3	060
+ce=0
+cw=0	PLN
+kz=4	-1	PLN	1	
+il=34.9313
+
+[RMS ZEST 49]
+ty=M	1
+na=materia³y pomocnicze
+id=0000000	1
+jm=%	147
+il=0
+
+[ELEMENT 1]
+na=ROBOTY ROZBIÓRKOWE
+wa=0
+kn=0	0	0
+id=48
+nu=1
+wn=	
+
+[POZYCJA]
+id=1
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0815-02 z.o. 2.13 . 9902-01	2-31	0815-02 z.o. 2.13 . 9902-01		0
+mpn=_
+na=Rozebranie chodników, z p³yt betonowych 50x50x7 cm na podsypce piaskowej 26-75 pojazdów na godzinê  - z wywiezieniem na magazyn Inwestora (80%pow. ca³k. 20% gruz)
+op=0	0	0	0	0	0
+nu=1
+ob=17
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=17	1	17		
+
+[RMS 48]
+nz=0.1249	0	0.1249
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=2
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0815-01	2-31	0815-01		0
+mpn=_
+na=Rozebranie chodników,  z p³yt betonowych 35x35x5 cm na podsypce piaskowej Z WYWIEZIENIEM ODZYSKANEGO MATERIA£U NA MAGAZYN INWESTORA (80%) I GRUZU NA ZWA£KÊ (20%)
+op=0	0	0	0	0	0
+nu=2
+ob=19.25
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=19.25	1	19,25		
+
+[RMS 48]
+nz=0.0974	0	0.0974
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=3
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0803-01 analogia z.o. 2.13. 9902-01	2-31	0803-01 analogia z.o. 2.13. 9902-01		0
+mpn=_
+na=Rêczne rozebranie nawierzchni z betonu o gruboœci  3 cm 26-75 pojazdów na godzinê-grub. ca³k. 10 cm
+op=0	0	0	0	0	0
+nu=3
+ob=89.3
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=89.3	1	89,30		
+
+[RMS 48]
+nz=0.4158	0	0.4158
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=4
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0803-02 analogia z.o. 2.13. 9902-01	2-31	0803-02 analogia z.o. 2.13. 9902-01		0
+mpn=_
+na=Rêczne rozebranie nawierzchni z betonu - dalszy 1 cm gruboœci 26-75 pojazdów na godz. (dodatek za 7 cm)
+op=0	0	0	0	0	0
+nu=4
+ob=89.3
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+krn=7
+
+[PRZEDMIAR]
+wo=89.3	1	89,30		
+
+[RMS 48]
+nz=0.0714	0	0.0714
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=5
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0511-02 analogia	2-31	0511-02 analogia		0
+mpn=_121:0,09
+na=Rozebranie nawierzchni z kostki brukowej betonowej gruboœæ 6 cm na podsypce cementowo-piaskowej - na magazyn Inwestora (90%) na zwa³kê gruz (10%)
+op=0	0	0	0	0	0
+nu=5
+ob=14.1
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+krn=0.7
+
+[PRZEDMIAR]
+wo=14.1	1	14,10		
+
+[RMS 48]
+nz=1.2342	0	1.2342
+np=1
+wa=0
+wb=0
+
+[RMS 49]
+nz=0.5	0	0.5
+np=1
+op=R
+wa=0
+wb=0
+
+[POZYCJA]
+id=6
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0502-04 analogia	2-31	0502-04 analogia		0
+mpn=_
+na=Rozebranie nawierzchni z prefabrykowanej kostki betonowej (stos. na parkingi eko) z wywiezieniem na magazyn Inwestora (80%) i gruzu (20%)
+op=0	0	0	0	0	0
+nu=6
+ob=22
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=22	1	22,0		
+
+[RMS 48]
+nz=0.41895	0	0.5985*0.7
+np=1
+wa=0
+wb=0
+
+[RMS 49]
+nz=0.5	0	0.5
+np=1
+op=R
+wa=0
+wb=0
+
+[POZYCJA]
+id=7
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0803-01	2-31	0803-01		0
+mpn=_
+na=Rêczne rozebranie nawierzchni z mieszanek mineralno-bitumicznych o gruboœci  3 cm ( z wywiezieniem gruzu na zwa³kê)
+op=0	0	0	0	0	0
+nu=7
+ob=18
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=18	1	18,0		
+
+[RMS 48]
+nz=0.4158	0	0.4158
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=8
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0814-02	2-31	0814-02		0
+mpn=_
+na=Rozebranie obrze¿y 8x30 cm na podsypce piaskowej z wywiezieniem materia³u na magazyn w miejsce wskazane przez Inwestora (90%) gruz (10%)
+op=0	0	0	0	0	0
+nu=8
+ob=50
+jm=m	040
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=50	1	50		
+
+[RMS 48]
+nz=0.0795	0	0.0795
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=9
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0811-03	2-31	0811-03		0
+mpn=_
+na=Rozebranie nawierzchni z p³yt drogowych betonowych -trylinki- o gruboœci  12 cm z wype³nieniem spoin zapraw¹ cementow¹ na magazyn Inwestora 90% gruz 10%
+op=0	0	0	0	0	0
+nu=9
+ob=7.5
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=7.5	1	7,50		
+
+[RMS 48]
+nz=0.3601	0	0.3601
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=10
+pd=ORGBUD wyd.II 1987, biuletyny do 9 1996	KNR	2-01 0109-05	2-01	0109-05		0
+na=Rêczne œcinanie i karczowanie œredniej gêstoœci krzaków i podszycia (16,5 m2)
+op=0	0	0	0	0	0
+nu=10
+ob=0.002
+jm=ha	052
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=0.002	1	1,5*11,0*0,0001		
+wo=0	1	0		
+
+[MNO¯NIKI RMS]
+wr=0.955		0.955
+wm=1		1
+ws=1		1
+
+[RMS 48]
+nz=416	0	416
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=11
+pd=ORGBUD wyd.II 1987, biuletyny do 9 1996	KNR	2-01 0111-02	2-01	0111-02		0
+na=Oczyszczenie terenu z pozosta³oœci po wykarczowaniu (drobne ga³êzie, korzenie, kora i wrzos) z wywiezieniem
+op=0	0	0	0	0	0
+nu=11
+ob=16.5
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=16.5	1	16,50		
+
+[MNO¯NIKI RMS]
+wr=0.955		0.955
+wm=1		1
+ws=1		1
+
+[RMS 48]
+nz=0.032	0	0.032
+np=1
+wa=0
+wb=0
+
+[RMS 37]
+nz=0.0107	0	0.0107
+np=1
+wa=0
+wb=0
+
+[RMS 44]
+nz=0.0107	0	0.0107
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=12
+pd=ORGBUD wyd.III 1994, biuletyny do 9 1996	KNR	4-04 1104-01 1104-03	4-04	1104-01 1104-03		0
+mpn=_
+na=Transport bloków i bry³ ceglanych i betonowych o masie do 50 kg przy rêcznym za³adowaniu i wy³adowaniu samochodami skrzyniowymi na odleg³oœæ 5 km - obrze¿e, trylinka, p³yty chodnikowe - materia³y  z odzysku na magazyn Inwestora w miejsce wskazane
+op=0	0	0	0	0	0
+nu=12
+ob=13.57
+jm=t	034
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=13.57	1	13,57		
+
+[RMS 48]
+nz=0.8	0	0.8
+np=1
+wa=0
+wb=0
+
+[RMS 43]
+nz=0.444	0	0.312+0.033*4
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=15
+pd=ORGBUD wyd.III 1994, biuletyny do 9 1996	KNR	4-04 1104-01 1104-03	4-04	1104-01 1104-03		0
+mpn=_
+na=Transport bloków i bry³ ceglanych i betonowych o masie do 50 kg przy rêcznym za³adowaniu i wy³adowaniu samochodami skrzyniowymi na odleg³oœæ 5 km - obrze¿e, trylinka, p³yty chodnikowe - na zwa³ke
+op=0	0	0	0	0	0
+nu=13
+ob=1.6
+jm=t	034
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=1.6	1	1,6		
+
+[RMS 48]
+nz=0.8	0	0.8
+np=1
+wa=0
+wb=0
+
+[RMS 43]
+nz=0.444	0	0.312+0.033*4
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=14
+pd=ORGBUD wyd.III 1994, biuletyny do 9 1996	KNR	4-04 1101-02 1101-05	4-04	1101-02 1101-05		0
+mpn=_
+na=Transport gruzu z terenu rozbiórki przy rêcznym za³adowaniu i wy³adowaniu samochodem skrzyniowym na odleg³oœæ do 1 km
+op=0	0	0	0	0	0
+nu=14
+ob=13.75
+jm=m3	060
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=13.75	1	13,75		
+
+[RMS 48]
+nz=1.26	0	1.26
+np=1
+wa=0
+wb=0
+
+[RMS 43]
+nz=0.622	0	0.474+0.037*4
+np=1
+wa=0
+wb=0
+
+[ELEMENT 1]
+na=ROBOTY ZIEMNE
+wa=0
+kn=0	0	0
+id=49
+nu=2
+wn=	
+
+[POZYCJA]
+id=16
+pd=ORGBUD wyd.II 1987, biuletyny do 9 1996	KNR	2-01 0119-03	2-01	0119-03		0
+mpn=_
+na=Roboty pomiarowe przy liniowych robotach ziemnych - trasa drogi w terenie równinnym
+op=0	0	0	0	0	0
+nu=15
+ob=0.73
+jm=km	043
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=0.73	1	0,73		
+
+[MNO¯NIKI RMS]
+wr=0.955		0.955
+wm=1		1
+ws=1		1
+
+[RMS 48]
+nz=117	0	117
+np=1
+wa=0
+wb=0
+
+[RMS 42]
+nz=0.104	0	0.104
+np=1
+wa=0
+wb=0
+
+[RMS 41]
+nz=7.5	0	7.5
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=17
+pd=ORGBUD wyd.II 1987, biuletyny do 9 1996	KNR	2-01 0307-02 0307-06	2-01	0307-02 0307-06		0
+mpn=_
+na=Roboty ziemne (ziemia urodzajna) z przewozem gruntu taczkami na odleg³oœæ 50 m (kat.gr.III)
+op=0	0	0	0	0	0
+nu=16
+ob=147
+jm=m3	060
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=147	1	147,0		
+
+[MNO¯NIKI RMS]
+wr=0.955		0.955
+wm=1		1
+ws=1		1
+
+[RMS 48]
+nz=3.12	0	2.48+0.16*4
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=18
+pd=ORGBUD wyd.II 1987, biuletyny do 9 1996	KNR	2-01 0314-02	2-01	0314-02		0
+na=Rêczne formowanie nasypów -spryzmowanie z ziemi le¿¹cej na odk³adzie (ziemia urodzajna) (kat.gr.II)
+op=0	0	0	0	0	0
+nu=17
+ob=147
+jm=m3	060
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=147	1	147,0		
+
+[MNO¯NIKI RMS]
+wr=0.955		0.955
+wm=1		1
+ws=1		1
+
+[RMS 48]
+nz=0.254	0	0.254
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=19
+pd=ORGBUD wyd.II 1987, biuletyny do 9 1996	KNR	2-01 0217-02	2-01	0217-02		0
+mpn=_
+na=Wykopy oraz przekopy wykonywane koparkami podsiêbiernymi 0.15 m3 na odk³ad w gruncie kat.III
+op=0	0	0	0	0	0
+nu=18
+ob=415
+jm=m3	060
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=415	1	415,0		
+
+[RMS 48]
+nz=0.1441	0	0.1441
+np=1
+wa=0
+wb=0
+
+[RMS 50]
+nz=0.0698	0	0.0698
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=20
+pd=ORGBUD wyd.II 1987, biuletyny do 9 1996	KNR	2-01 0229-02	2-01	0229-02		0
+mpn=_121:0,09
+na=Przemieszczenie spycharkami mas ziemnych na odleg³oœæ do 10 m w gruncie kat. III
+op=0	0	0	0	0	0
+nu=19
+ob=415
+jm=m3	060
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=415	1	415,0		
+
+[RMS 1]
+nz=0.0117	0	0.0117
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=21
+pd=ORGBUD wyd.II 1987, biuletyny do 9 1996	KNR	2-01 0229-05	2-01	0229-05		0
+mpn=_121:0,09
+na=Przemieszczenie spycharkami mas ziemnych w gruncie kat. III - dodatek za ka¿de rozpoczête 10 m w przedziale ponad 10 do 30 m
+op=0	0	0	0	0	0
+nu=20
+ob=415
+jm=m3	060
+kj=0	0	0
+cj=0
+wn=	
+krn=2
+
+[PRZEDMIAR]
+wo=415	1	415,0		
+
+[RMS 1]
+nz=0.0058	0	0.0058
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=22
+pd=ORGBUD wyd.II 1987, biuletyny do 9 1996	KNR	2-01 0229-08	2-01	0229-08		0
+mpn=_121:0,09
+na=Przemieszczenie spycharkami mas ziemnych w gruncie kat. III - dodatek za ka¿de rozpoczête 10 m w przedziale ponad 30 do 60 m
+op=0	0	0	0	0	0
+nu=21
+ob=415
+jm=m3	060
+kj=0	0	0
+cj=0
+wn=	
+krn=2
+
+[PRZEDMIAR]
+wo=415	1	415,0		
+
+[RMS 1]
+nz=0.0082	0	0.0082
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=23
+pd=ORGBUD wyd.II 1987, biuletyny do 9 1996	KNR	2-01 0314-05	2-01	0314-05		0
+na=Rêczne formowanie nasypów z ziemi le¿¹cej na odk³adzie z przemieszczeniem spycharkami lub zgarniarkami (kat.gr.III-IV)
+op=0	0	0	0	0	0
+nu=22
+ob=415
+jm=m3	060
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=415	1	415,0		
+
+[MNO¯NIKI RMS]
+wr=0.955		0.955
+wm=1		1
+ws=1		1
+
+[RMS 48]
+nz=0.128	0	0.128
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=24
+pd=ORGBUD wyd.II 1987, biuletyny do 9 1996	KNR	2-01 0307-02 0307-06	2-01	0307-02 0307-06		0
+mpn=_
+na=Roboty ziemne z przewozem gruntu taczkami na odleg³oœæ do 50 m (kat.gr.III)
+op=0	0	0	0	0	0
+nu=23
+ob=39
+jm=m3	060
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=39	1	39,0		
+
+[MNO¯NIKI RMS]
+wr=0.955		0.955
+wm=1		1
+ws=1		1
+
+[RMS 48]
+nz=3.12	0	2.48+0.16*4
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=25
+pd=ORGBUD wyd.II 1987, biuletyny do 9 1996	KNR	2-01 0314-02	2-01	0314-02		0
+na=Rêczne formowanie nasypów z ziemi le¿¹cej na odk³adzie (korytowanie) (kat.gr.III-IV)
+op=0	0	0	0	0	0
+nu=24
+ob=39
+jm=m3	060
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=39	1	39,0		
+
+[MNO¯NIKI RMS]
+wr=0.955		0.955
+wm=1		1
+ws=1		1
+
+[RMS 48]
+nz=0.254	0	0.254
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=26
+pd=ORGBUD wyd.II 1987, biuletyny do 9 1996	KNR	2-01 0229-02	2-01	0229-02		0
+mpn=_121:0,09
+na=Przemieszczenie spycharkami mas ziemnych na odleg³oœæ do 10 m w gruncie kat. III - przewiezienie spryzmowanej ziemi na nasyp
+op=0	0	0	0	0	0
+nu=25
+ob=138
+jm=m3	060
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=138	1	138		
+
+[RMS 1]
+nz=0.0117	0	0.0117
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=27
+pd=ORGBUD wyd.II 1987, biuletyny do 9 1996	KNR	2-01 0235-02	2-01	0235-02		0
+mpn=_121:0,09
+na=Formowanie i zagêszczanie nasypów o wys. do 3.0 m spycharkami w gruncie kat. III-IV
+op=0	0	0	0	0	0
+nu=26
+ob=138
+jm=m3	060
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=138	1	138		
+
+[RMS 48]
+nz=0.1175	0	0.1175
+np=1
+wa=0
+wb=0
+
+[RMS 1]
+nz=0.0471	0	0.0471
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=28
+pd=ORGBUD wyd.II 1987, biuletyny do 9 1996	KNR	2-01 0212-01	2-01	0212-01		0
+mpn=_121:0,09
+na=Roboty ziemne wyk.koparkami podsiêbiernymi 0.15 m3 w ziemi kat.I-III uprzednio zmagazynowanej w ha³dach z transportem urobku samochodami samowy³adowczymi na odl.do 1 km - ziemia spryzmowanja uprzednio
+op=0	0	0	0	0	0
+nu=27
+ob=463
+jm=m3	060
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=463	1	463,0		
+
+[RMS 48]
+nz=0.0429	0	0.0429
+np=1
+wa=0
+wb=0
+
+[RMS 50]
+nz=0.1046	0	0.1046
+np=1
+wa=0
+wb=0
+
+[RMS 1]
+nz=0.0346	0	0.0346
+np=1
+wa=0
+wb=0
+
+[RMS 45]
+nz=0.2353	0	0.2353
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=29
+pd=ORGBUD wyd.II 1987, biuletyny do 9 1996	KNR	2-01 0214-04	2-01	0214-04		0
+mpn=121:0,09
+na=Nak³ady uzupe³n.za ka¿de dalsze rozp. 0.5 km transportu ponad 1 km samochodami samowy³adowczymi po drogach utwardzonych ziemi kat.III-IV - na dalsze 4 km w miejsce wskazane przez Inwestora
+op=0	0	0	0	0	0
+nu=28
+ob=463
+jm=m3	060
+kj=0	0	0
+cj=0
+wn=	
+krn=8
+
+[PRZEDMIAR]
+wo=463	1	463,0		
+
+[RMS 45]
+nz=0.0152	0	0.0152
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=30
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0103-02	2-31	0103-02		0
+mpn=_
+na=Rêczne profilowanie i zagêszczenie pod³o¿a pod warstwy konstrukcyjne nawierzchni w gruncie kat. III-IV - plantowanie i zagêszczenie koryta chodnika i wjazdów bramowych
+op=0	0	0	0	0	0
+nu=29
+ob=1961.12
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=1961.12	1	1961,12		
+
+[RMS 48]
+nz=0.1866	0	0.1866
+np=1
+wa=0
+wb=0
+
+[RMS 39]
+nz=0.005	0	0.005
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=31
+pd=ORGBUD wyd.II 1987, biuletyny do 9 1996	KNR	2-01 0505-01	2-01	0505-01		0
+mpn=_
+na=Rêczne plantowanie powierzchni gruntu rodzimego kat.I-III - plantowanie terenu zieleñca
+op=0	0	0	0	0	0
+nu=30
+ob=1343
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=1343	1	1343,0		
+
+[MNO¯NIKI RMS]
+wr=0.955		0.955
+wm=1		1
+ws=1		1
+
+[RMS 48]
+nz=0.1	0	0.1
+np=1
+wa=0
+wb=0
+
+[ELEMENT 1]
+na=KRAWÊZNIKI I £AWY
+wa=0
+kn=0	0	0
+id=50
+nu=3
+wn=	
+
+[POZYCJA]
+id=32
+pd=Kancelaria Prezesa Rady Ministrów 2001	KNNR	6 0403-03 z.o. 2.7. 9902-01	6	0403-03 z.o. 2.7. 9902-01		0
+mpn=_
+na=Krawê¿niki betonowe wystaj¹ce o wymiarach 15x30 cm z wykonaniem ³aw betonowych z betonu B-10 o przekroju 0,0795 m2na podsypce cementowo-piaskowej-obok czynnego pasa jezdni (26-75 poj)
+op=0	0	0	0	0	0
+nu=31
+ob=13
+jm=m	040
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=13	1	13,0		
+
+[RMS 48]
+nz=0.62809	0	0.587*1.07
+np=1
+wa=0
+wb=0
+
+[RMS 31]
+nz=0.0208	0	0.0208
+np=1
+wa=0
+wb=0
+
+[RMS 35]
+nz=0.0006	0	0.0006
+np=1
+wa=0
+wb=0
+
+[RMS 30]
+nz=1.02	0	1.02
+np=1
+wa=0
+wb=0
+
+[RMS 15]
+nz=0.0195	0	0.0195
+np=1
+wa=0
+wb=0
+
+[RMS 22]
+nz=0.0039	0	0.0039
+np=1
+wa=0
+wb=0
+
+[RMS 40]
+nz=0.0136	0	0.0136
+np=1
+wa=0
+wb=0
+
+[RMS 49]
+nz=0.2	0	0.2
+np=1
+op=M
+wa=0
+wb=0
+
+[POZYCJA]
+id=33
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0403-05 z.o. 2.13. 9902-01	2-31	0403-05 z.o. 2.13. 9902-01		0
+mpn=_
+na=Krawê¿niki betonowe wtopione o wymiarach 15x30 cm na podsypce cementowo-piaskowej 26-75 pojazdów na godzinê (wjazdy bramowe i chodniki przy jezdni)
+op=0	0	0	0	0	0
+nu=32
+ob=464.7
+jm=m	040
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=464.7	1	464,70		
+
+[RMS 48]
+nz=0.3255	0	0.3255
+np=1
+wa=0
+wb=0
+
+[RMS 29]
+nz=1.02	0	1.02
+np=1
+wa=0
+wb=0
+
+[RMS 16]
+nz=0.0111	0	0.0111
+np=1
+wa=0
+wb=0
+
+[RMS 21]
+nz=0.0032	0	0.0032
+np=1
+wa=0
+wb=0
+
+[RMS 39]
+nz=0.0041	0	0.0041
+np=1
+wa=0
+wb=0
+
+[RMS 49]
+nz=0.5	0	0.5
+np=1
+op=M
+wa=0
+wb=0
+
+[POZYCJA]
+id=34
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0402-04 z.o. 2.13. 9902-01	2-31	0402-04 z.o. 2.13. 9902-01		0
+mpn=_
+na=£awa pod krawê¿niki betonowa z oporem 26-75 pojazdów na godzinê - beton B-10 ³awa o przekroju 0,072 m2 na wjazdach bramowych przy jezdni
+op=0	0	0	0	0	0
+nu=33
+ob=33.46
+jm=m3	060
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=33.46	1	33,46		
+
+[RMS 48]
+nz=9.02	0	9.02
+np=1
+wa=0
+wb=0
+
+[RMS 34]
+nz=0.04	0	0.04
+np=1
+wa=0
+wb=0
+
+[RMS 16]
+nz=0.27	0	0.27
+np=1
+wa=0
+wb=0
+
+[RMS 39]
+nz=0.47	0	0.47
+np=1
+wa=0
+wb=0
+
+[RMS 49]
+nz=0.5	0	0.5
+np=1
+op=M
+wa=0
+wb=0
+
+[RMS 32]
+nz=1.04	0	1.04
+np=0
+wa=0
+wb=0
+
+[POZYCJA]
+id=35
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0403-07	2-31	0403-07		0
+mpn=_
+na=Krawê¿niki betonowe - dodatek za ustawienie na ³ukach o promieniu do 10 m
+op=0	0	0	0	0	0
+nu=34
+ob=31
+jm=m	040
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=31	1	31,0		
+
+[RMS 48]
+nz=0.357	0	0.357
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=36
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0407-03	2-31	0407-03		0
+mpn=_
+na=Obrze¿a betonowe o wymiarach 30x8 cm na podsypce piaskowej z wype³nieniem spoin piaskiem
+op=0	0	0	0	0	0
+nu=35
+ob=1141.5
+jm=m	040
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=1141.5	1	1141,50		
+
+[RMS 48]
+nz=0.2404	0	0.2404
+np=1
+wa=0
+wb=0
+
+[RMS 24]
+nz=1.02	0	1.02
+np=1
+wa=0
+wb=0
+
+[RMS 16]
+nz=0.006	0	0.006
+np=1
+wa=0
+wb=0
+
+[RMS 49]
+nz=0.5	0	0.5
+np=1
+op=M
+wa=0
+wb=0
+
+[ELEMENT 1]
+na=PODBUDOWA WJAZDÓW BRAMOWYCH, ŒCIE¯EK ROWEROWYCH I CHODNIKÓW
+wa=0
+kn=0	0	0
+id=51
+nu=4
+wn=	
+
+[POZYCJA]
+id=37
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0114-01 z.o. 2.13. 9902-01	2-31	0114-01 z.o. 2.13. 9902-01		0
+mpn=_
+na=Podbudowa z kruszywa naturalnego - warstwa dolna o gruboœci po zagêszczeniu 20 cm 26-75 pojazdów na godzinê - warstwa pospó³ki grub. 10 cm - wjazdy bramowe, chodniki, œcie¿ki rowerowe
+op=0	0	0	0	0	0
+nu=36
+ob=1956.5
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=1956.5	1	1956,50		
+
+[RMS 48]
+nz=0.0168	0	0.0168
+np=1
+wa=0
+wb=0
+
+[RMS 17]
+nz=0.2455	0	0.2455
+np=1
+wa=0
+wb=0
+
+[RMS 39]
+nz=0.02	0	0.02
+np=1
+wa=0
+wb=0
+
+[RMS 49]
+nz=0.5	0	0.5
+np=1
+op=M
+wa=0
+wb=0
+
+[RMS 2]
+nz=0.0026	0	0.0026
+np=1
+wa=0
+wb=0
+
+[RMS 4]
+nz=0.0182	0	0.0182
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=38
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0114-07 Z.O. 2.13. 9902-01	2-31	0114-07 Z.O. 2.13. 9902-01		0
+mpn=_
+na=Podbudowa z kruszywa ³amanego - warstwa górna o gruboœci po zagêszczeniu 8 cm 26-75 POJAZDÓW NA GODZINÊ-T£UCZEÑ KAMIENNY GRUB. CA£K. 15 CM
+op=0	0	0	0	0	0
+nu=37
+ob=512.8
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=512.8	1	512,80		
+
+[RMS 48]
+nz=0.0304	0	0.0304
+np=1
+wa=0
+wb=0
+
+[RMS 14]
+nz=0.1697	0	0.1697
+np=1
+wa=0
+wb=0
+
+[RMS 13]
+nz=0.0143	0	0.0143
+np=1
+wa=0
+wb=0
+
+[RMS 39]
+nz=0.008	0	0.008
+np=1
+wa=0
+wb=0
+
+[RMS 49]
+nz=0.5	0	0.5
+np=1
+op=M
+wa=0
+wb=0
+
+[RMS 2]
+nz=0.0025	0	0.0025
+np=1
+wa=0
+wb=0
+
+[RMS 4]
+nz=0.0256	0	0.0256
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=39
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0114-08 z.o. 2.13. 9902-01	2-31	0114-08 z.o. 2.13. 9902-01		0
+mpn=_
+na=Podbudowa z kruszywa ³amanego - warstwa górna - za ka¿dy dalszy 1 cm gruboœci po zagêszczeniu  26-75 pojazdów na godzinê - dodatek za dalsze 7 cm
+op=0	0	0	0	0	0
+nu=38
+ob=512.8
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+krn=7
+
+[PRZEDMIAR]
+wo=512.8	1	512,80		
+
+[RMS 48]
+nz=0.0011	0	0.0011
+np=1
+wa=0
+wb=0
+
+[RMS 14]
+nz=0.0212	0	0.0212
+np=1
+wa=0
+wb=0
+
+[RMS 39]
+nz=0.001	0	0.001
+np=1
+wa=0
+wb=0
+
+[RMS 49]
+nz=0.5	0	0.5
+np=1
+op=M
+wa=0
+wb=0
+
+[RMS 2]
+nz=0.0002	0	0.0002
+np=1
+wa=0
+wb=0
+
+[RMS 4]
+nz=0.0013	0	0.0013
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=40
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0511-03 z.o. 2.13. 9902-01	2-31	0511-03 z.o. 2.13. 9902-01		0
+mpn=_121:1,09
+na=Nawierzchnie z kostki brukowej betonowej gruboœæ 8 cm na podsypce cementowo-piaskowej 26-75 pojazdów na godzinê - wjazdy bramowe-kostka czerwona
+op=0	0	0	0	0	0
+nu=39
+ob=531.03
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=531.03	1	531,03		
+
+[RMS 48]
+nz=1.3032	0	1.3032
+np=1
+wa=0
+wb=0
+
+[RMS 28]
+nz=1.025	0	1.025
+np=1
+wa=0
+wb=0
+
+[RMS 16]
+nz=0.0818	0	0.0818
+np=1
+wa=0
+wb=0
+
+[RMS 23]
+nz=0.0117	0	0.0117
+np=1
+wa=0
+wb=0
+
+[RMS 39]
+nz=0.027	0	0.027
+np=1
+wa=0
+wb=0
+
+[RMS 49]
+nz=0.5	0	0.5
+np=1
+op=M
+wa=0
+wb=0
+
+[RMS 46]
+nz=0.13	0	0.13
+np=1
+wa=0
+wb=0
+
+[RMS 47]
+nz=0.025	0	0.025
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=41
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0511-01 z.o. 2.13. 9902-01	2-31	0511-01 z.o. 2.13. 9902-01		0
+mpn=_121:0,09
+na=Nawierzchnie z kostki brukowej betonowej -czerwona- gruboœæ 6 cm na podsypce piaskowej 26-75 pojazdów na godzinê - œcie¿ka rowerowa
+op=0	0	0	0	0	0
+nu=40
+ob=550.35
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=550.35	1	550,35		
+
+[RMS 48]
+nz=1.0891	0	1.0891
+np=1
+wa=0
+wb=0
+
+[RMS 27]
+nz=1.025	0	1.025
+np=1
+wa=0
+wb=0
+
+[RMS 16]
+nz=0.0763	0	0.0763
+np=1
+wa=0
+wb=0
+
+[RMS 39]
+nz=0.021	0	0.021
+np=1
+wa=0
+wb=0
+
+[RMS 49]
+nz=0.5	0	0.5
+np=1
+op=M
+wa=0
+wb=0
+
+[RMS 46]
+nz=0.13	0	0.13
+np=1
+wa=0
+wb=0
+
+[RMS 47]
+nz=0.025	0	0.025
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=42
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0511-01 z.o. 2.13. 9902-01	2-31	0511-01 z.o. 2.13. 9902-01		0
+mpn=_121:0,09
+na=Nawierzchnie z kostki brukowej betonowej -szara jasna- gruboœæ 6 cm na podsypce piaskowej 26-75 pojazdów na godzinê - chodnik
+op=0	0	0	0	0	0
+nu=41
+ob=819.12
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=819.12	1	819,12		
+
+[RMS 48]
+nz=1.0891	0	1.0891
+np=1
+wa=0
+wb=0
+
+[RMS 26]
+nz=1.025	0	1.025
+np=1
+wa=0
+wb=0
+
+[RMS 16]
+nz=0.0763	0	0.0763
+np=1
+wa=0
+wb=0
+
+[RMS 39]
+nz=0.021	0	0.021
+np=1
+wa=0
+wb=0
+
+[RMS 49]
+nz=0.5	0	0.5
+np=1
+op=M
+wa=0
+wb=0
+
+[RMS 46]
+nz=0.13	0	0.13
+np=1
+wa=0
+wb=0
+
+[RMS 47]
+nz=0.025	0	0.025
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=43
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0502-01	2-31	0502-01		0
+mpn=_
+na=Chodniki z p³yt betonowych 35x35x5 cm na podsypce piaskowej z wype³nieniem spoin piaskiem-p³ytki "inwalidki" 40*40*5 cm (norma 6,365 szt/m2)
+op=0	0	0	0	0	0
+nu=42
+ob=42.4
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=42.4	1	42,40		
+
+[RMS 48]
+nz=0.61556	0	0.5596*1.10
+np=1
+wa=0
+wb=0
+
+[RMS 25]
+nz=6.365	0	6.365
+np=1
+wa=0
+wb=0
+
+[RMS 16]
+nz=0.063	0	0.063
+np=1
+wa=0
+wb=0
+
+[RMS 39]
+nz=0.025	0	0.025
+np=1
+wa=0
+wb=0
+
+[RMS 49]
+nz=0.5	0	0.5
+np=1
+op=M
+wa=0
+wb=0
+
+[POZYCJA]
+id=44
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0202-09	2-31	0202-09		0
+mpn=_
+na=Nawierzchnia ¿wirowa - rozœcielana mechanicznie - gruboœæ po zagêszczeniu  8 cm - umocnienie poboczy
+op=0	0	0	0	0	0
+nu=43
+ob=517.5
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=517.5	1	517,50		
+
+[RMS 48]
+nz=0.0623	0	0.0623
+np=1
+wa=0
+wb=0
+
+[RMS 19]
+nz=0.0135	0	0.0135
+np=1
+wa=0
+wb=0
+
+[RMS 16]
+nz=0.0271	0	0.0271
+np=1
+wa=0
+wb=0
+
+[RMS 18]
+nz=0.0675	0	0.0675
+np=1
+wa=0
+wb=0
+
+[RMS 39]
+nz=0.008	0	0.008
+np=1
+wa=0
+wb=0
+
+[RMS 49]
+nz=0.5	0	0.5
+np=1
+op=M
+wa=0
+wb=0
+
+[RMS 7]
+nz=0.0085	0	0.0085
+np=1
+wa=0
+wb=0
+
+[RMS 38]
+nz=0.0085	0	0.0085
+np=1
+wa=0
+wb=0
+
+[RMS 4]
+nz=0.0134	0	0.0134
+np=1
+wa=0
+wb=0
+
+[RMS 3]
+nz=0.005	0	0.005
+np=1
+wa=0
+wb=0
+
+[ELEMENT 1]
+na=ROBOTY RÓ¯NE
+wa=0
+kn=0	0	0
+id=52
+nu=5
+wn=	
+
+[POZYCJA]
+id=45
+pd=Miastoprojekt 1992, biuletyny do 9 1996	KNR	2-21 0401-01	2-21	0401-01		0
+na=Wykonanie trawników dywanowych siewem  na gruncie kat. I-II bez nawo¿enia
+op=0	0	0	0	0	0
+nu=44
+ob=1343.38
+jm=m2	050
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=1343.38	1	1343,38		
+
+[MNO¯NIKI RMS]
+wr=0.955		0.955
+wm=1		1
+ws=1		1
+
+[RMS 48]
+nz=0.188	0	0.188
+np=1
+wa=0
+wb=0
+
+[RMS 36]
+nz=0.02	0	0.02
+np=1
+wa=0
+wb=0
+
+[POZYCJA]
+id=46
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 0701-05	2-31	0701-05		0
+mpn=_
+na=Porêcze ochronne ³añcuchowe pojedyncze o rozstawie s³upków z rur 60 mm 1.5 m - WYGRODZENIA U-12B
+op=0	0	0	0	0	0
+nu=45
+ob=13
+jm=m	040
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=13	1	13,0		
+
+[RMS 48]
+nz=0.9629	0	0.9629
+np=1
+wa=0
+wb=0
+
+[RMS 6]
+nz=1.13	0	1.13
+np=1
+wa=0
+wb=0
+
+[RMS 5]
+nz=5.94	0	5.94
+np=1
+wa=0
+wb=0
+
+[RMS 20]
+nz=0.0578	0	0.0578
+np=1
+wa=0
+wb=0
+
+[RMS 16]
+nz=0.0075	0	0.0075
+np=1
+wa=0
+wb=0
+
+[RMS 21]
+nz=0.0028	0	0.0028
+np=1
+wa=0
+wb=0
+
+[RMS 9]
+nz=0.037	0	0.037
+np=1
+wa=0
+wb=0
+
+[RMS 10]
+nz=0.034	0	0.034
+np=1
+wa=0
+wb=0
+
+[RMS 11]
+nz=0.034	0	0.034
+np=1
+wa=0
+wb=0
+
+[RMS 12]
+nz=0.015	0	0.015
+np=1
+wa=0
+wb=0
+
+[RMS 39]
+nz=0.0029	0	0.0029
+np=1
+wa=0
+wb=0
+
+[RMS 49]
+nz=0.5	0	0.5
+np=1
+op=M
+wa=0
+wb=0
+
+[POZYCJA]
+id=47
+pd=ORGBUD wyd.III 1993, biuletyny do 9 1996	KNR	2-31 1406-04	2-31	1406-04		0
+na=Regulacja pionowa studzienek dla zaworów wodoci¹gowych i gazowych z rozebraniem obudowy betonowej 0,50*0,50 m
+op=0	0	0	0	0	0
+nu=46
+ob=15
+jm=szt.	020
+kj=0	0	0
+cj=0
+wn=	
+
+[PRZEDMIAR]
+wo=15	1	15,0		
+
+[RMS 48]
+nz=5.051	0	5.051
+np=1
+wa=0
+wb=0
+
+[RMS 33]
+nz=0.093	0	0.093
+np=0
+wa=0
+wb=0
+
+[RMS 21]
+nz=0.0053	0	0.0053
+np=1
+wa=0
+wb=0
+
+[RMS 16]
+nz=0.0094	0	0.0094
+np=1
+wa=0
+wb=0
+
+[RMS 34]
+nz=0.0109	0	0.0109
+np=1
+wa=0
+wb=0
+
+[RMS 8]
+nz=0.058	0	0.058
+np=1
+wa=0
+wb=0
+
+[RMS 39]
+nz=0.004	0	0.004
+np=1
+wa=0
+wb=0
+
+[RMS 49]
+nz=0.5	0	0.5
+np=1
+op=M
+wa=0
+wb=0
+
